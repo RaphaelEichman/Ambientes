@@ -1,4 +1,4 @@
-# Multi_Fasta_Consensus
+# Consensus and Profile
 
 ## Overview
 
